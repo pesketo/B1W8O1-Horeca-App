@@ -1,6 +1,5 @@
-# B1W8O1-Horeca-App
+# Horeca App
 
-Assignment
 In de stad komt een nieuw Café-Bar waar je lekker met je vrienden drankjes en ook lekkere hapjes kunt bestellen. De naam van de Café-Bar bedenk je zelf. De Café-Bar vraagt aan jou om een JS applicatie te maken zodat ze gemakkelijk de bestellingen kunnen bijhouden en uiteraard moet je ook de rekening kunnen opvragen.
 
  
@@ -9,7 +8,7 @@ Je gaat eerst aan de slag met alleen de drankjes, als de JS applicatie goed werk
 
  
 
-De bestellingen worden via een prompt ingevoerd. Het proces van bestellingen invoeren werkt als volgt:
+De bestellingen worden via een __prompt__ ingevoerd. Het proces van bestellingen invoeren werkt als volgt:
 
 Je krijgt de vraag 'Welke bestelling wilt u toevoegen?'
 Je kunt nu opgeven welk drankje je wilt bestellen. Je kunt intypen 'fris', 'bier' of 'wijn'
@@ -23,18 +22,14 @@ Je kunt alleen drankjes bestellen die op de kaart staan, dus je moet invoercontr
 
  
 
-Uitbreiding met bitterballen bestellen
+## Uitbreiding met bitterballen bestellen
 
-Bereid de JS applicatie uit zodat je ook schalen met bitterbalen kunt bestellen. Het proces bitterballen bestellen werkt als volgt:
+Breid de JS applicatie uit zodat je ook schalen met bitterbalen kunt bestellen. Het proces bitterballen bestellen werkt als volgt:
 
 1. Je krijgt de vraag 'Welke bestelling wilt u toevoegen?'
-
 2. Je type het woord 'snack' in.
-
 3. Je krijgt de vraag 'Hoeveel bitterballen wilt u toevoegen (8 of 16)?'
-
 4. Je krijgt de vraag 'Hoeveel bitterbalschalen van aantal stuks wilt u bestellen?' Bij aantal komt te staan 8 of 16 afhankelijk van wat je invoert
-
 5. Daarna ga je automatisch weer terug naar stap 1. Kortom je kunt dan weer een nieuwe bestelling invoeren.
 
  
@@ -45,9 +40,10 @@ Als je bij punt 3 een ander getal dan 8 of 16 invoert dan krijg je de melding 'U
 
 Naast de functionele eisen gaan we ook letten op het volgende:
 
-* Opdracht ingeleverd op github
-* Naamgeving van variabelen en functienamen is duidelijk en self explaining
-* Code is netjes en correct uitgelijnd
-* Er is commentaar toegevoegd op stukjes code die lastigere te begrijpen zijn. In ieder geval geef je in het kort per functie aan wat deze doet
-* Zorg voor een mooi gestylde html pagina en de opmaak regel je uiteraard in de css
-* Je bepaalt zelf de prijzen voor de drankjes en de schalen met bitterballen
+- Opdracht ingeleverd op GitHub
+- Minimaal 1 x per dag gecommit
+- Naamgeving van variabelen en functienamen is duidelijk en self explaining
+- Code is netjes en correct uitgelijnd
+- Er is commentaar toegevoegd op stukjes code die lastigere te begrijpen zijn. In ieder geval geef je in het kort per functie aan wat deze doet
+- Zorg voor een mooi gestylde html pagina en de opmaak regel je uiteraard in de css
+- Je bepaalt zelf de prijzen voor de drankjes en de schalen met bitterballen
